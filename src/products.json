@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Producto Ejemplo",
-    "description": "Descripción del producto ejemplo.",
-    "code": "PROD001",
-    "price": 100,
-    "status": true,
-    "stock": 50,
-    "thumbnails": []
-  },
-  {
     "id": 2,
     "title": "Producto Ejemplo",
     "description": "Descripción del producto ejemplo.",
